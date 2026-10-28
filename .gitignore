@@ -31,6 +31,8 @@ trace.log
 _shotwin.py
 _shotdlg.py
 _probe*.py
+_gh_*.py
+_git_push.py
 _t*.py
 _diag*.py
 
