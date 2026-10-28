@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 虚拟环境（305 MB，绝不入库）
+venv/
+.venv/
+env/
+
+# 构建产物
+build/
+dist/
+*.manifest
+
+# 安装包（75~224 MB，走 Release 不走仓库）
+installer/*.exe
+*.exe
+
+# 日志与临时文件
+*.log
+build.log
+selftest.log
+crash.log
+trace.log
+*.bak
+*.tmp
+
+# 调试脚本
+_shotwin.py
+_shotdlg.py
+_probe*.py
+_t*.py
+_diag*.py
+
+# 运行时配置（含 API Key，禁止入库）
+config.json
+%APPDATA%/
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+desktop.ini
