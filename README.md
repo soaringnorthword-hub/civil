@@ -4,6 +4,12 @@
 
 Windows 桌面程序，Python + Tkinter，PyInstaller 打包为单文件目录版，Inno Setup 生成安装包。
 
+## 下载安装
+
+**[⬇ 下载 v1.1.1 安装包（74 MB）](https://github.com/soaringnorthword-hub/civil/releases/latest)**
+
+Windows 10 / 11 x64，双击安装，无需 Python 环境。安装包未做代码签名，SmartScreen 提示时选「更多信息 → 仍要运行」。
+
 ---
 
 ## 为什么不是"OCR 一把梭"
